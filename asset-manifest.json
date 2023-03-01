@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/loureeseyana/static/css/main.bc1d200e.css",
-    "main.js": "/loureeseyana/static/js/main.1ebde965.js",
-    "static/js/787.b7f717d1.chunk.js": "/loureeseyana/static/js/787.b7f717d1.chunk.js",
-    "index.html": "/loureeseyana/index.html",
-    "main.bc1d200e.css.map": "/loureeseyana/static/css/main.bc1d200e.css.map",
-    "main.1ebde965.js.map": "/loureeseyana/static/js/main.1ebde965.js.map",
-    "787.b7f717d1.chunk.js.map": "/loureeseyana/static/js/787.b7f717d1.chunk.js.map"
+    "main.css": "/adwells.co/static/css/main.bc1d200e.css",
+    "main.js": "/adwells.co/static/js/main.1ebde965.js",
+    "static/js/787.b7f717d1.chunk.js": "/adwells.co/static/js/787.b7f717d1.chunk.js",
+    "index.html": "/adwells.co/index.html",
+    "main.bc1d200e.css.map": "/adwells.co/static/css/main.bc1d200e.css.map",
+    "main.1ebde965.js.map": "/adwells.co/static/js/main.1ebde965.js.map",
+    "787.b7f717d1.chunk.js.map": "/adwells.co/static/js/787.b7f717d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc1d200e.css",
