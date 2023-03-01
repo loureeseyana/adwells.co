@@ -1,15 +1,6 @@
 {
-  "files": {
-    "main.css": "/adwells.co/static/css/main.bc1d200e.css",
-    "main.js": "/adwells.co/static/js/main.1ebde965.js",
-    "static/js/787.b7f717d1.chunk.js": "/adwells.co/static/js/787.b7f717d1.chunk.js",
-    "index.html": "/adwells.co/index.html",
-    "main.bc1d200e.css.map": "/adwells.co/static/css/main.bc1d200e.css.map",
-    "main.1ebde965.js.map": "/adwells.co/static/js/main.1ebde965.js.map",
-    "787.b7f717d1.chunk.js.map": "/adwells.co/static/js/787.b7f717d1.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.bc1d200e.css",
-    "static/js/main.1ebde965.js"
-  ]
+  "short_name": "adwells.co",
+  "name": "Ariel D Wells Consulting",
+  "start_url": "/loureeseyana.github.io/",
+  "display": "standalone"
 }
