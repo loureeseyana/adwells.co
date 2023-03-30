@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Menu } from './menu'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFilePdf } from '@fortawesome/free-regular-svg-icons'
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
@@ -59,6 +60,7 @@ export default class MainSection extends Component {
       </div>
     </div>
   </div>
+
 </section>
 
     )

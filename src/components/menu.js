@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
-export default class Header extends Component {
+export default class Menu extends Component {
     render() {
 
 return (
@@ -11,27 +11,27 @@ return (
       <div id="main-nav" className="navbar-expand-lg navStyle">
         <ul className="nav navbar-nav" id="mainNav">
           <li className="active">
-            <a href="#hero_section" className="scroll-link">
+            <a href="/" className="scroll-link">
               Home
             </a>
           </li>
           <li>
-            <a href="#aboutUs" className="scroll-link">
+            <a href="/about" className="scroll-link">
               About Me
             </a>
           </li>
           <li>
-            <a href="#service" className="scroll-link">
+            <a href="/services" className="scroll-link">
               Skills
             </a>
           </li>
           <li>
-            <a href="#experience" className="scroll-link">
+            <a href="/experience" className="scroll-link">
               Experience
             </a>
           </li>
           <li>
-            <a href="#contact" className="scroll-link">
+            <a href="/contact" className="scroll-link">
               Contact
             </a>
           </li>
